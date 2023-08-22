@@ -1,0 +1,15 @@
+C:\Jacek\git\Battleship\bin\Debug\net6.0\Battleships.exe
+C:\Jacek\git\Battleship\bin\Debug\net6.0\Battleships.deps.json
+C:\Jacek\git\Battleship\bin\Debug\net6.0\Battleships.runtimeconfig.json
+C:\Jacek\git\Battleship\bin\Debug\net6.0\Battleships.dll
+C:\Jacek\git\Battleship\bin\Debug\net6.0\Battleships.pdb
+C:\Jacek\git\Battleship\obj\Debug\net6.0\Battleships.csproj.AssemblyReference.cache
+C:\Jacek\git\Battleship\obj\Debug\net6.0\Battleships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jacek\git\Battleship\obj\Debug\net6.0\Battleships.AssemblyInfoInputs.cache
+C:\Jacek\git\Battleship\obj\Debug\net6.0\Battleships.AssemblyInfo.cs
+C:\Jacek\git\Battleship\obj\Debug\net6.0\Battleships.csproj.CoreCompileInputs.cache
+C:\Jacek\git\Battleship\obj\Debug\net6.0\Battleships.dll
+C:\Jacek\git\Battleship\obj\Debug\net6.0\refint\Battleships.dll
+C:\Jacek\git\Battleship\obj\Debug\net6.0\Battleships.pdb
+C:\Jacek\git\Battleship\obj\Debug\net6.0\Battleships.genruntimeconfig.cache
+C:\Jacek\git\Battleship\obj\Debug\net6.0\ref\Battleships.dll
